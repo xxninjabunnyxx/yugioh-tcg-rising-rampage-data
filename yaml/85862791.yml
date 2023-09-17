@@ -1,0 +1,26 @@
+---
+id: 85862791
+name: Fighting Dirty
+type: Trap Card
+frameType: trap
+desc: 'If a card(s) you control and a card(s) your opponent controls are destroyed
+  by battle or card effect at the same time: Each player draws 2 cards. You can only
+  activate 1 "Fighting Dirty" per turn.'
+race: Normal
+card_sets:
+- set_name: Rising Rampage
+  set_code: RIRA-EN080
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.02'
+card_images:
+- id: 85862791
+  image_url: https://images.ygoprodeck.com/images/cards/85862791.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/85862791.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/85862791.jpg
+card_prices:
+- cardmarket_price: '0.06'
+  tcgplayer_price: '0.02'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.49'
